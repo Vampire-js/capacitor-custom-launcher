@@ -1,0 +1,6 @@
+{
+  "appId": "com.cool.launcher",
+  "appName": "CoolLauncher",
+  "webDir": "dist",
+  "bundledWebRuntime": false
+}
