@@ -1,7 +1,5 @@
-# Vue 3 + Vite
+# Custom Home Screen Launcher
 
-This template should help get you started developing with Vue 3 in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+This is a home screen launcher I've made with Capacitor, Tailwindcss, and Vue 3 ( Vite )
 
-## Recommended IDE Setup
-
-- [VS Code](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar)
+(btw it has a some additional files and code which isn't used, I'll clean it soon 😅 :) )
